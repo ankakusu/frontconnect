@@ -1,0 +1,29 @@
+baseURL = "http://frontconnect.nl/"
+languageCode = "en-us"
+title = "Front Connect"
+theme = "min_night"
+[params]
+  accent = "#006264"
+  backgroundColor = "#f5f5f5"
+  description = "freelance front-end web developer"
+  font = "Mina"
+  githubLink = "https://instagram.com/EXAMPLE"
+[[menu.icon]]
+    url = "mailto:yaprak.ayazoglu@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/ankakusu"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/yaprakaya"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/yaprakayazoglu/"
+    name = "linkedin"
+    weight = 4
