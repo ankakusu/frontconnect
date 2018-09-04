@@ -9,7 +9,7 @@ theme = "min_night"
   font = "Mina"
   githubLink = "https://instagram.com/EXAMPLE"
 [[menu.icon]]
-    url = "mailto:yaprak.ayazoglu@gmail.com"
+    url = "mailto:info@frontconnect.nl"
     name = "envelope-o"
     weight = 1
 
